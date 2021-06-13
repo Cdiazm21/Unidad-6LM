@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE disco SYSTEM "Actividad2_1.dtd">
+<disco>
+<nombre>Dookie</nombre>
+<artista>
+<nombre>Green Day</nombre>
+<album>
+<album tipo="texto">
+<nombre>Albúm de estudio de Green Day</nombre>
+<fecha_de_lanzamiento>01/02/1994</fecha_de_lanzamiento>
+</album>
+</artista>
+</disco>

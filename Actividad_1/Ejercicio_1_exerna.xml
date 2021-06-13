@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nota SYSTEM "DTDbasico_mensajeDTD.dtd">
+<nota>
+    <para>Pedro</para>
+    <de>Laura</de>
+    <asunto>Recordatorio</asunto>
+    <contenido>Hola</contenido>
+</nota>

@@ -1,0 +1,7 @@
+<!ELEMENT disco (artista, albúm)+>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT artista (nombre)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT albúm (nombre, fecha_de_lanzamiento+)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT fecha_de_lanzamiento (#PCDATA)>
